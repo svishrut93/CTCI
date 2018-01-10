@@ -3,6 +3,8 @@ package ctci;
 import java.util.Arrays;
 import java.util.Scanner;
 
+//Given 2 strings, check if they are a rotation of each other. 
+
 public class StringRotation {
 
 	public static void main(String[] args) 
