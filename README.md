@@ -2,8 +2,9 @@
 
 <h4>This repo contains solutions to problems from Cracking the Coding Interview- Gayle Laakmann McDowell - 5th Edition</h4>
 <br>
-Problem number
--------------------------------------------------------------------------------------------------------|<br>
+
+|Problem number|<br>
+|-------------------------------------------------------------------------------------------------------|<br>
 |[1.1](https://github.com/svishrut93/CTCI/blob/master/UniqueCharacters.java)                           |<br>
 |[1.3](https://github.com/svishrut93/CTCI/blob/master/Anagram.java)                                    |<br>
 |[1.4](https://github.com/svishrut93/CTCI/blob/master/ReplaceSpace.java)                               |<br>  
