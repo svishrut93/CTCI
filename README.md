@@ -1,7 +1,6 @@
 <h1>CTCI</h1> 
 
-<h4>This repo contains solutio<br>ns to problems from Cracking the Coding Interview- Gayle Laakmann McDowell</h4>
-
+<h4>This repo contains solutions to problems from Cracking the Coding Interview- Gayle Laakmann McDowell - 5th Edition</h4>
 Problem number
 -------------------------------------------------------------------------------------------------------
 [1.1](https://github.com/svishrut93/CTCI/blob/master/UniqueCharacters.java)                           |<br>
