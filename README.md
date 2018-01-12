@@ -3,7 +3,7 @@
 <h4>This repo contains solutions to problems from Cracking the Coding Interview- Gayle Laakmann McDowell - 5th Edition</h4>
 <br>
 Problem number
----------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------|<br>
 |[1.1](https://github.com/svishrut93/CTCI/blob/master/UniqueCharacters.java)                           |<br>
 |[1.3](https://github.com/svishrut93/CTCI/blob/master/Anagram.java)                                    |<br>
 |[1.4](https://github.com/svishrut93/CTCI/blob/master/ReplaceSpace.java)                               |<br>  
@@ -17,4 +17,4 @@ Problem number
 |[3.01](https://github.com/svishrut93/CTCI/tree/master/Stack%20Implementation)                         |<br>
 |[3.02](https://github.com/svishrut93/CTCI/tree/master/Stack%20Implementation%20-Linked%20List)        |<br>
 |[3.2](https://github.com/svishrut93/CTCI/tree/master/Min%20operation%20on%20stack%20in%20O-1)         |<br>
----------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------|<br>
