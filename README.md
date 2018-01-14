@@ -15,8 +15,8 @@
 |[2.2](https://github.com/svishrut93/CTCI/tree/master/Kth%20to%20last%20element%20of%20Linked%20List)  |<br>
 |[2.4](https://github.com/svishrut93/CTCI/tree/master/Partition%20Linked%20List%20around%20value)      |<br>
 |[2.5](https://github.com/svishrut93/CTCI/tree/master/Addition%20of%20numbers%20using%20Linked%20Lists)|<br>
-|[3.01](https://github.com/svishrut93/CTCI/tree/master/Stack%20Implementation)                         |<br>
-|[3.02](https://github.com/svishrut93/CTCI/tree/master/Stack%20Implementation%20-Linked%20List)        |<br>
+|[3.01](https://github.com/svishrut93/CTCI/tree/master/Stack%20Implementation)                        |<br>
+|[3.02](https://github.com/svishrut93/CTCI/tree/master/Stack%20Implementation%20-Linked%20List)       |<br>
 |[3.2](https://github.com/svishrut93/CTCI/tree/master/Min%20operation%20on%20stack%20in%20O-1)         |<br>
 |[9.2](https://github.com/svishrut93/CTCI/blob/master/Possible%20paths%20from%200-0%20to%20X-Y/RobotDynamicProgramming.java)|<br>
 -------------------------------------------------------------------------------------------------------|<br>
