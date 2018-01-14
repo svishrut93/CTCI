@@ -1,4 +1,4 @@
-<h1>CTCI</h1> 
+h1>CTCI</h1> 
 
 <h4>This repo contains solutions to problems from Cracking the Coding Interview- Gayle Laakmann McDowell - 5th Edition</h4>
 <br>
@@ -18,7 +18,7 @@
 |[3.01](https://github.com/svishrut93/CTCI/tree/master/Stack%20Implementation)                        |<br>
 |[3.02](https://github.com/svishrut93/CTCI/tree/master/Stack%20Implementation%20-Linked%20List)       |<br>
 |[3.2](https://github.com/svishrut93/CTCI/tree/master/Min%20operation%20on%20stack%20in%20O-1)         |<br>
-|[3.2](https://github.com/svishrut93/CTCI/blob/master/StepCount.java)|<br>
+|[9.1](https://github.com/svishrut93/CTCI/blob/master/StepCount.java)|<br>
 |[9.2](https://github.com/svishrut93/CTCI/blob/master/Possible%20paths%20from%200-0%20to%20X-Y/RobotDynamicProgramming.java)|<br>
 
 -------------------------------------------------------------------------------------------------------|<br>
