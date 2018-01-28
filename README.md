@@ -2,6 +2,7 @@
 
 <h4>This repo contains solutions to problems from Cracking the Coding Interview- Gayle Laakmann McDowell - 5th Edition</h4>
 <br>
+Note: This repository is updated as I solve more questions.<br>
 
 |Problem number|<br>
 |-------------------------------------------------------------------------------------------------------|<br>
