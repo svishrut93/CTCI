@@ -20,6 +20,7 @@ Note: This repository is updated as I solve more questions.<br>
 |[3.01](https://github.com/svishrut93/CTCI/tree/master/Stack%20Implementation)                        |<br>
 |[3.02](https://github.com/svishrut93/CTCI/tree/master/Stack%20Implementation%20-Linked%20List)       |<br>
 |[3.2](https://github.com/svishrut93/CTCI/tree/master/Min%20operation%20on%20stack%20in%20O-1)         |<br>
+|[4.2](https://github.com/svishrut93/CTCI/tree/master/Check%20if%20path%20exists%20between%20two%20nodes%20in%20a%20graph)         |<br>
 |[9.1](https://github.com/svishrut93/CTCI/blob/master/StepCount.java)|<br>
 |[9.2](https://github.com/svishrut93/CTCI/blob/master/Possible%20paths%20from%200-0%20to%20X-Y/RobotDynamicProgramming.java)|<br>
 
