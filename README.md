@@ -24,5 +24,6 @@ Note: This repository is updated as I solve more questions.<br>
 |[4.3](https://github.com/svishrut93/CTCI/tree/master/Create%20a%20BST%20from%20an%20array)|<br>
 |[9.1](https://github.com/svishrut93/CTCI/blob/master/StepCount.java)|<br>
 |[9.2](https://github.com/svishrut93/CTCI/blob/master/Possible%20paths%20from%200-0%20to%20X-Y/RobotDynamicProgramming.java)|<br>
+|[11.1](https://github.com/svishrut93/CTCI/tree/master/Merge%20two%20sorted%20arrays)|<br>
 
 -------------------------------------------------------------------------------------------------------|<br>
