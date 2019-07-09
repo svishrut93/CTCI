@@ -32,8 +32,7 @@ public class LinkedList {
 			{
 				current = current.getNext(); 
 			}
-			current.setNext(adder);
-			//= adder ; 
+			current.setNext(adder); 
 			listcount++; 
 			System.out.println("Element added ");
 			
