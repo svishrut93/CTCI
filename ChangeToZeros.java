@@ -58,7 +58,8 @@ public class ChangeToZeros {
 			}
 		}
 	
-		//fixing columns to 0 by traversing array holding row indices
+		//fixing columns to 0 by traversing array "holding" row indices.
+		//holding = row array in outer loop
 		for(int i  = 0 ; i < rows.length ; i ++ )
 		{
 			if(rows[i]==1)
@@ -71,7 +72,8 @@ public class ChangeToZeros {
 			}
 		}
 		
-		//fixing rows to 0 by traversing array holding column indices
+		//fixing rows to 0 by traversing array "holding" column indices
+		//holding = column array in outer loop
 		for(int i = 0 ; i < columns.length ; i ++ )
 		{
 			if(columns[i]==1)
