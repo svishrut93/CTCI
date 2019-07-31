@@ -27,17 +27,10 @@ public class StringRotation {
 	private static Boolean RotationCheck(String input1,String input2 ) 
 	{
 		if(input1.length()!=input2.length())
-		{
 			return false; 
-		}
 		
-		String concat = input1+input1 ; 
-		
-		//return isSubstring(concat,input2);
-		
-		return concat.contains(input2);
-		
-		
-
+		String concatInput1 = input1+input1 ; 		
+		return concatInput1.contains(input2);
+	
 	}
 }
