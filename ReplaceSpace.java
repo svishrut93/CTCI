@@ -23,9 +23,7 @@ public class ReplaceSpace {
 	private static String SpaceReplace(String input) {
 		// TODO Auto-generated method stub
 			
-		int count_chars = 0 ; 
-		int count_space = 0 ;
-		
+		//The logic here does not involve counting any spaces/other characters in advance
 		String ans = "";
 
 		for(int i = 0 ; i < input.length() ; i ++ )
