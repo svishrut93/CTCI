@@ -43,8 +43,8 @@ public class ChangeToZeros {
 		int[] rows = new int [input_matrix.length] ; 
 		int[] columns = new int [input_matrix[0].length]; 
 		
-		//System.out.println(rows.length+ " "+columns.length);
-		
+
+		//Determining the indices when a "0" is found in the input_matrix		
 		for(int i = 0 ; i <input_matrix.length; i ++ )
 		{
 			
@@ -60,6 +60,7 @@ public class ChangeToZeros {
 			}
 		}
 	
+		//fixing columns to 0 by traversing array holding row indices
 		for(int i  = 0 ; i < rows.length ; i ++ )
 		{
 			if(rows[i]==1)
@@ -71,6 +72,8 @@ public class ChangeToZeros {
 					}
 			}
 		}
+		
+		//fixing rows to 0 by traversing array holding column indices
 		for(int i = 0 ; i < columns.length ; i ++ )
 		{
 			if(columns[i]==1)
