@@ -33,11 +33,11 @@ public class ChangeToZeros {
 		
 		Display (input_matrix); 		
 
-		Algorithm(input_matrix); 
+		changeZeroLogic(input_matrix); 
 		
 	}
 
-	private static void Algorithm(int[][] input_matrix) {
+	private static void changeZeroLogic(int[][] input_matrix) {
 		// TODO Auto-generated method stub
 		
 		int[] rows = new int [input_matrix.length] ; 
