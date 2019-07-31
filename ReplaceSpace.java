@@ -1,6 +1,6 @@
 package ctci;
 
-//Write a method to replace all spaces ion a string with '%20'. 
+//Write a method to replace all spaces in a string with '%20'. 
 //You may assume that the string has sufficient space at the end of the string to hold additional
 //characters 
 
