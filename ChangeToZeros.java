@@ -36,8 +36,8 @@ public class ChangeToZeros {
 	}
 
 	private static void changeZeroLogic(int[][] input_matrix) {
-		// TODO Auto-generated method stub
 		
+		//Using arrays DS to save row and column indices (by filling them with 1)
 		int[] rows = new int [input_matrix.length] ; 
 		int[] columns = new int [input_matrix[0].length]; 
 		
