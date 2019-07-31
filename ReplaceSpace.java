@@ -1,8 +1,10 @@
 package ctci;
 
-//Write a method to replace all spaces in a string with '%20'. 
-//You may assume that the string has sufficient space at the end of the string to hold additional
-//characters 
+/**
+*Write a method to replace all spaces in a string with '%20'. 
+*You may assume that the string has sufficient space at the end of the string to hold additional
+*characters
+*/
 
 import java.util.Scanner;
 import java.util.*; 
@@ -21,19 +23,18 @@ public class ReplaceSpace {
 	}
 
 	private static String SpaceReplace(String input) {
-		// TODO Auto-generated method stub
 			
 		//The logic here does not involve counting any spaces/other characters in advance
 		String ans = "";
 
 		for(int i = 0 ; i < input.length() ; i ++ )
 		{
-
-			if(input.charAt(i)!= ' ') ans= ans+input.charAt(i); 
+			//When character is not a " "(space), simply append character to ans	
+			if(input.charAt(i)!= ' ') 
+				ans= ans+input.charAt(i); 
+			//When chaqracter is a " "(space), append "%20" to ans
 			else 
-			{
 				ans= ans+"%20";
-			}
 		}
 		return ans ; 
 
