@@ -1,8 +1,7 @@
-//
-//
-//You are given two sorted arrays A and B where A has large enough buffer at the end to hold B. 
-//Write a method to merge B into A in a sorted order 
-
+/**
+*You are given two sorted arrays A and B where A has large enough buffer at the end to hold B. 
+*Write a method to merge B into A in a sorted order 
+*/
 
 import java.util.Scanner ; 
 
