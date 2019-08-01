@@ -52,25 +52,21 @@ public class Q11point1 {
 		
 		int merger = arr1.length-1 ; 
 		
-		
 		System.out.println(last_arr1+"   "+last_arr2+" "+ merger);
 		
-		while (last_arr2>=0  )
+		while (last_arr2>=0)
 		{
 			
 			if(last_arr1 > 0 && arr1[last_arr1]>arr2[last_arr2])
 			{
 				arr1[merger] = arr1[last_arr1]; 
-				last_arr1-- ; 
-				
-				
+				last_arr1-- ; 	
 			}
 			
 			else 
 			{
 				arr1[merger] = arr2[last_arr2];
 				last_arr2--;  
-				
 			}
 			merger-- ; 
 				
