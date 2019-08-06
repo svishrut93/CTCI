@@ -15,12 +15,7 @@ public class Main {
 		Graph g = createNewGraph();   //Create graph by passing label for a node, and the number of adjacent nodes to it 
 		System.out.println("Graph created ");
 		Node[] n = g.getNodes();
-		
-//		System.out.println("Node array : ");
-//		for(int i =0; i < n.length ; i ++ )
-//		{
-//			System.out.println(n[i]);
-//		}
+
 		
 		Node start = n[3];
 		Node end = n[5];
