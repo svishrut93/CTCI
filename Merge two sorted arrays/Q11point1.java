@@ -50,10 +50,13 @@ public class Q11point1 {
 		int last_arr2 = arr2.length-1 ; 
 		int last_arr1 = arr2.length-1 ; 
 		
+		// Since arr1 has enough size/buffer to hold elements of arr2 , we put the merger pointer as the last 
+		// element of arr1 array.
 		int merger = arr1.length-1 ; 
 		
 		System.out.println(last_arr1+"   "+last_arr2+" "+ merger);
 		
+		//Since arr2 has lesser size that arr1, we use last_arr2 as part of the outer loop.
 		while (last_arr2>=0)
 		{
 			
